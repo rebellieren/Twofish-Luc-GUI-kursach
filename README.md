@@ -1,2 +1,2 @@
 # Twofish-Luc-GUI-kursach
-I'm tired
+This is a working implementation of Twofich and LUC
